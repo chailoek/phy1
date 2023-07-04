@@ -1,0 +1,97 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-07-04T01:49:31.243498Z",
+      "format": null,
+      "last_modified": "2023-07-03T08:25:51.599300Z",
+      "mimetype": "image/png",
+      "name": "exp2.png",
+      "path": "images/00/exp2.png",
+      "size": 2053630,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-07-04T01:49:31.210164Z",
+      "format": null,
+      "last_modified": "2023-07-03T08:52:18.149547Z",
+      "mimetype": null,
+      "name": "TDef.kra",
+      "path": "images/00/TDef.kra",
+      "size": 4079457,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-07-04T01:49:31.183498Z",
+      "format": null,
+      "last_modified": "2023-07-03T08:37:03.132107Z",
+      "mimetype": "image/png",
+      "name": "LDef.png",
+      "path": "images/00/LDef.png",
+      "size": 1837446,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-07-04T01:49:31.223498Z",
+      "format": null,
+      "last_modified": "2023-07-03T08:25:32.214087Z",
+      "mimetype": null,
+      "name": "exp2.kra",
+      "path": "images/00/exp2.kra",
+      "size": 6015861,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-07-04T01:49:31.190164Z",
+      "format": null,
+      "last_modified": "2023-07-03T08:30:18.259758Z",
+      "mimetype": null,
+      "name": "LDef.png.kra",
+      "path": "images/00/LDef.png.kra",
+      "size": 5129678,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-07-04T01:49:31.173497Z",
+      "format": null,
+      "last_modified": "2023-07-03T08:36:45.125284Z",
+      "mimetype": null,
+      "name": "LDef.kra",
+      "path": "images/00/LDef.kra",
+      "size": 5429219,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-07-04T01:49:31.216831Z",
+      "format": null,
+      "last_modified": "2023-07-03T08:52:30.877705Z",
+      "mimetype": "image/png",
+      "name": "TDef.png",
+      "path": "images/00/TDef.png",
+      "size": 1328828,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2023-07-04T01:49:31.243498Z",
+  "format": "json",
+  "last_modified": "2023-07-04T01:49:31.243498Z",
+  "mimetype": null,
+  "name": "00",
+  "path": "images/00",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
