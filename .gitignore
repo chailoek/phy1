@@ -1,2 +1,4 @@
 *~
 *.kra
+manim
+notebooks/.ipynb_checkpoints/*
