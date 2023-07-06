@@ -1,4 +1,8 @@
 *~
 *.kra
-manim
+*.log
+
+manim/media
+manim/__pycache__
+
 notebooks/.ipynb_checkpoints/*
