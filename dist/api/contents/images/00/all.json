@@ -2,13 +2,13 @@
   "content": [
     {
       "content": null,
-      "created": "2023-07-04T01:49:31.243498Z",
+      "created": "2023-07-06T04:25:33.450833Z",
       "format": null,
-      "last_modified": "2023-07-03T08:25:51.599300Z",
+      "last_modified": "2023-07-05T11:04:37.779862Z",
       "mimetype": "image/png",
       "name": "exp2.png",
       "path": "images/00/exp2.png",
-      "size": 2053630,
+      "size": 2135619,
       "type": "file",
       "writable": true
     },
@@ -85,9 +85,9 @@
       "writable": true
     }
   ],
-  "created": "2023-07-04T01:49:31.243498Z",
+  "created": "2023-07-06T04:25:33.447500Z",
   "format": "json",
-  "last_modified": "2023-07-04T01:49:31.243498Z",
+  "last_modified": "2023-07-06T04:25:33.447500Z",
   "mimetype": null,
   "name": "00",
   "path": "images/00",
